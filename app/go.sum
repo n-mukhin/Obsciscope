@@ -1,0 +1,10 @@
+github.com/beorn7/perks v1.0.1 h1:WdK+IV7V2fhtmvjPDL55DcPw3pBYjdH3d6J/1V+RkDI=
+github.com/beorn7/perks v1.0.1/go.mod h1:pvRVa+u5TG5D90CUMvoZtDh6p53Xh6YJ1XRa5ya1lRM=
+github.com/prometheus/client_golang v1.15.0 h1:MdXhJkZURbzwqOGmGdw5l0qIIA6heauyL12pBzJAudY=
+github.com/prometheus/client_golang v1.15.0/go.mod h1:NqgJ5w+AV4W6+w3kCdxgv2DgFPixq9ZzoEIDl9y5r2k=
+github.com/prometheus/client_model v0.4.0 h1:eD1CskQxU12rZQ/I/nLkN6pkt4JcGgPBUfWs3M2kLys=
+github.com/prometheus/client_model v0.4.0/go.mod h1:arHctSJ+4kXNua0fHkO/Ql5eFZy3W62h/Sv9mC9HcPk=
+github.com/prometheus/common v0.37.0 h1:GF6t6LI2uTIr5HN4hpF0gkFfuya4oQyJmiaJslnXEvA=
+github.com/prometheus/common v0.37.0/go.mod h1:dLLblieAlvt4W7B2BLp4xOR5TQdnKwzVAdef0moedn4=
+github.com/prometheus/procfs v0.11.1 h1:FsjnEQovqFCyMh/LqErW6x/qqy6ShU6fmNL57DrEyHQ=
+github.com/prometheus/procfs v0.11.1/go.mod h1:j6Q8WA1ruIVfqa3eoJJw7ATmME16mSdD6PbC1rPmPZA=

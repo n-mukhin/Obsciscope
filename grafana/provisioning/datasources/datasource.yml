@@ -1,0 +1,16 @@
+apiVersion: 1
+deleteDatasources:
+  - name: Prometheus
+datasources:
+  - name: Prometheus
+    type: prometheus
+    url: http://prometheus:9090
+    access: proxy
+    isDefault: true
+  - name: Elasticsearch
+    type: elasticsearch
+    url: http://elasticsearch:9200
+    access: proxy
+    database: obsciscope-logs-*
+    jsonData:
+      timeField: "@timestamp"
